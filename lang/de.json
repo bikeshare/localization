@@ -27,5 +27,12 @@
     "APPTUT1_MODE": "Du kannst dir ein Fahrrad leihen oder dein eigenes Fahrrad verleihen. Auf der ersten Seite wählst du den Modus",
     "APPTUT1_CREDITS": "Wenn du dein Fahrrad anderen zur Verfügung stellst, dann bekommst du Zeit Credits, die du bei deinem Zeitlimit einsetzen kannst",
     "APPTUT2_TITLE": "Karte der Fahrräder",
-    "APPTUT2_MAP": "Am Anfang siehst du eine Karte, welche dir die Standorte der verfügbaren Fahrräder in der Nähe anzeigt"
+    "APPTUT2_MAP": "Am Anfang siehst du eine Karte, welche dir die Standorte der verfügbaren Fahrräder in der Nähe anzeigt",
+    "APPTUT3_TITLE": "Fahrrad wählen",
+    "APPTUT3_CHOOSE_BIKE": "Nun kannst du auf den Bike Button des Fahrrads klicken, welches du ausleihen willst. Stehst du direkt neben dem Bike kannst du es direkt entsperren oder es für 30 Minuten blocken, sodass es für den Zeitraum reserviert ist",
+    "APPTUT4_TITLE": "Schritte vor dem Losfahren",
+    "APPTUT4_RATING": "Bewerte den Zustand des Fahhrads und falls du das E-Bike gewählt hast, schaue dir die genaue Bedienung dessen an",
+    "APPTUT5_TITLE": "App Funktionen",
+    "APPTUT5_BIKE_UNLOCKED": "Das Fahrrad ist entsperrt. Im unteren Teil der Ansicht findest du deine Action Buttons",
+    "APPTUT5_INFO": "Hier kannst du die gefahrene Zeit und andere Infos ansehen, das Bike sperren oder für max. 30 min pausieren"
 }
