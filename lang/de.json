@@ -1,7 +1,5 @@
 {
-    "settings option in the menu": {
-        "MENU_OPTION_SETTINGS": "Einstellungen"
-    },
+    "MENU_OPTION_SETTINGS": "Einstellungen",
     "MENU_OPTION_PROFILE": "Profil",
     "MENU_OPTION_TIME": "Zeit",
     "MENU_OPTION_RATING": "Bewertung",
