@@ -22,5 +22,10 @@
     "TREE_POPUP_KEEP_IT_UP": "Mach weiter so!",
     "404_PAGE_NOT_FOUND": "Seite nicht gefunden",
     "404_ERROR_MESSAGE": "Die Seite die du versucht hast aufzurufen wurde nicht gefunden",
-    "404_HOMEPAGE": "Zur Startseite"
+    "404_HOMEPAGE": "Zur Startseite",
+    "APPTUT1_TITLE": "Fahrrad fahren, Fahrrad leihen",
+    "APPTUT1_MODE": "Du kannst dir ein Fahrrad leihen oder dein eigenes Fahrrad verleihen. Auf der ersten Seite wählst du den Modus",
+    "APPTUT1_CREDITS": "Wenn du dein Fahrrad anderen zur Verfügung stellst, dann bekommst du Zeit Credits, die du bei deinem Zeitlimit einsetzen kannst",
+    "APPTUT2_TITLE": "Karte der Fahrräder",
+    "APPTUT2_MAP": "Am Anfang siehst du eine Karte, welche dir die Standorte der verfügbaren Fahrräder in der Nähe anzeigt"
 }
