@@ -19,5 +19,8 @@
     "TREE_POPUP_TREES": "Bäume",
     "TREE_POPUP_BY_BIKE": "durch dein Fahrrad fahren gerettet",
     "TREE_POPUP_PROUD": "Du kannst stolz auf dich sein",
-    "TREE_POPUP_KEEP_IT_UP": "Mach weiter so!"
+    "TREE_POPUP_KEEP_IT_UP": "Mach weiter so!",
+    "404_PAGE_NOT_FOUND": "Seite nicht gefunden",
+    "404_ERROR_MESSAGE": "Die Seite die du versucht hast aufzurufen wurde nicht gefunden",
+    "404_HOMEPAGE": "Zur Startseite"
 }
