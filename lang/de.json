@@ -8,5 +8,7 @@
     "MENU_SETTINGS_SETTINGS": "Einstellungen",
     "MENU_SETTINGS_OPTION_UPDATEAPP": "App aktualisieren",
     "GENERIC_AN_ERROR_OCCURED": "Es ist ein Fehler aufgetreten",
-    "GENERIC_TRY_AGAIN": "Bitte versuche es erneut"
+    "GENERIC_TRY_AGAIN": "Bitte versuche es erneut",
+    "GENERIC_BIKESHARE": "bikeshare",
+    "GENERIC_HFG_GMUEND\n": "HfG Gmünd"
 }
