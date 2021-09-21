@@ -38,5 +38,6 @@
     "APPTUT6_TITLE": "App Funktionen",
     "APPTUT6_MENU": "Im Menü oben links in der Ecke findest du eine Übersicht über dein Zeitbudget, den Bewertungsverlauf, dein Profil und deinen ökologischen Fußabdruck",
     "APPTUT6_READY": "Du kannst loslegen. Bitte fahre vorsichtig",
-    "APPTUT6_DONE": "Fertig"
+    "GENERIC_DONE": "Fertig",
+    "GENERIC_NEXT": "Weiter"
 }
