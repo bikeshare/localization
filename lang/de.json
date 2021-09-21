@@ -11,5 +11,13 @@
     "GENERIC_TRY_AGAIN": "Bitte versuche es erneut",
     "GENERIC_BIKESHARE": "bikeshare",
     "GENERIC_HFG_GMUEND": "HfG Gmünd",
-    "GENERIC_SYSTEM_STATUS": "System-Status"
+    "GENERIC_SYSTEM_STATUS": "System-Status",
+    "MAP_ERROR_LOADING_BIKES": "Fehler beim Laden der Bikes",
+    "GENERIC_HELLO": "Hallo",
+    "TREE_POPUP_ALREADY_SAVED": "du hast insgesamt schon",
+    "TREE_POPUP_TREE": "einen Baum",
+    "TREE_POPUP_TREES": "Bäume",
+    "TREE_POPUP_BY_BIKE": "durch dein Fahrrad fahren gerettet",
+    "TREE_POPUP_PROUD": "Du kannst stolz auf dich sein",
+    "TREE_POPUP_KEEP_IT_UP": "Mach weiter so!"
 }
