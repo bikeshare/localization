@@ -1,1 +1,8 @@
-{}
+{
+    "MENU_OPTION_SETTINGS": "Einstellungen",
+    "MENU_OPTION_PROFILE": "Profil",
+    "MENU_OPTION_TIME": "Zeit",
+    "MENU_OPTION_RATING": "Bewertung",
+    "MENU_OPTION_HELP": "Hilfe",
+    "MENU_OPTION_BUGREPORT": "Bug melden"
+}
