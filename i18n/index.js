@@ -1,3 +1,4 @@
-import de from '../lang/de';
-import en from '../lang/en';
-export default { de, en };
+const de = require('../lang/de');
+const en = require('../lang/en');
+
+module.exports = { de, en };
