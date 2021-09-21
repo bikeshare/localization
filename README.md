@@ -5,4 +5,4 @@ This repository contains localization for bikeshare.
 
 ## Contribution
 
-Information on how to contribute translating bikeshare to other languages will follow soon.
+You can contribute in translating bikeshare by visiting our [translation tool](https://poeditor.com/join/project?hash=BZUP0ld933)
