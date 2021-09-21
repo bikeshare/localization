@@ -10,5 +10,6 @@
     "GENERIC_AN_ERROR_OCCURED": "Es ist ein Fehler aufgetreten",
     "GENERIC_TRY_AGAIN": "Bitte versuche es erneut",
     "GENERIC_BIKESHARE": "bikeshare",
-    "GENERIC_HFG_GMUEND": "HfG Gmünd"
+    "GENERIC_HFG_GMUEND": "HfG Gmünd",
+    "GENERIC_SYSTEM_STATUS": "System-Status"
 }
