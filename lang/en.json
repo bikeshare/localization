@@ -4,5 +4,9 @@
     "MENU_OPTION_TIME": "Time",
     "MENU_OPTION_RATING": "Rating",
     "MENU_OPTION_HELP": "Help",
-    "MENU_OPTION_BUGREPORT": "Bug report"
+    "MENU_OPTION_BUGREPORT": "Bug report",
+    "MENU_SETTINGS_SETTINGS": "",
+    "MENU_SETTINGS_OPTION_UPDATEAPP": "",
+    "GENERIC_AN_ERROR_OCCURED": "",
+    "GENERIC_TRY_AGAIN": ""
 }
