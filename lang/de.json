@@ -39,5 +39,8 @@
     "APPTUT6_MENU": "Im Menü oben links in der Ecke findest du eine Übersicht über dein Zeitbudget, den Bewertungsverlauf, dein Profil und deinen ökologischen Fußabdruck",
     "APPTUT6_READY": "Du kannst loslegen. Bitte fahre vorsichtig",
     "GENERIC_DONE": "Fertig",
-    "GENERIC_NEXT": "Weiter"
+    "GENERIC_NEXT": "Weiter",
+    "LANGUAGE_NAME": "Deutsch",
+    "MENU_SETTINGS_OPTION_LANGUAGE": "",
+    "MENU_SETTINGS_LANGUAGE_TITLE": ""
 }
